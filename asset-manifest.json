@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/demo_site/static/css/main.28606236.css",
+    "main.js": "/demo_site/static/js/main.f739b64f.js",
+    "static/js/787.53f24b95.chunk.js": "/demo_site/static/js/787.53f24b95.chunk.js",
+    "static/media/shopping_mall_dark.jpg": "/demo_site/static/media/shopping_mall_dark.55edc685ab90c18a18df.jpg",
+    "static/media/shopping_mall.jpg": "/demo_site/static/media/shopping_mall.be5baab531b591de5bb8.jpg",
+    "static/media/people_dark.jpg": "/demo_site/static/media/people_dark.f09a282440bae8fef812.jpg",
+    "static/media/people.jpg": "/demo_site/static/media/people.16e6e5705dcb2ff1f5e5.jpg",
+    "static/media/Roboto-Regular.ttf": "/demo_site/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/demo_site/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "static/media/portrait_dark.jpg": "/demo_site/static/media/portrait_dark.fd5f8eec6094d9b89383.jpg",
+    "static/media/amethyst_dark.jpg": "/demo_site/static/media/amethyst_dark.ec4249ba38a357692c58.jpg",
+    "static/media/amethyst.jpg": "/demo_site/static/media/amethyst.462b704ee3aecd88e3a4.jpg",
+    "static/media/chain.jpg": "/demo_site/static/media/chain.d88f350e0c0572ac0a65.jpg",
+    "static/media/ilya.jpg": "/demo_site/static/media/ilya.40b9f8e8c239de04f55a.jpg",
+    "static/media/jennifer.jpg": "/demo_site/static/media/jennifer.9a5fd9aba6c52aefd2d1.jpg",
+    "static/media/ellis.jpg": "/demo_site/static/media/ellis.4b4efd2f8ada78ee4d34.jpg",
+    "static/media/tim.jpg": "/demo_site/static/media/tim.84fe167149224c4ff81d.jpg",
+    "static/media/diamond.jpg": "/demo_site/static/media/diamond.4371245fa736bce027a9.jpg",
+    "static/media/gold_jewelry.jpg": "/demo_site/static/media/gold_jewelry.f5094c95912441dfec48.jpg",
+    "static/media/jessie.jpg": "/demo_site/static/media/jessie.819b4a77230e9aa8f2c7.jpg",
+    "static/media/glass.jpg": "/demo_site/static/media/glass.fd1968f7712c3f90f604.jpg",
+    "static/media/pam.jpg": "/demo_site/static/media/pam.988994a8d7ea4b60c5a5.jpg",
+    "index.html": "/demo_site/index.html",
+    "main.28606236.css.map": "/demo_site/static/css/main.28606236.css.map",
+    "main.f739b64f.js.map": "/demo_site/static/js/main.f739b64f.js.map",
+    "787.53f24b95.chunk.js.map": "/demo_site/static/js/787.53f24b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28606236.css",
+    "static/js/main.f739b64f.js"
+  ]
+}
